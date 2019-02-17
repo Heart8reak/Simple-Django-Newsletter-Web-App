@@ -17,6 +17,9 @@ Part 2:
 2. Create a models.py 
 3. Create a sign-up form
 
+This is the sample website that we are building:
+https://landingpage001.herokuapp.com/
+
 
 
 ##########################################################################################################
