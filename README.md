@@ -1,4 +1,4 @@
-# Simple-Django-Newsletter-Web-App
+# Simple-Django-Newsletter-App
 Simple Django Newsletter Web App  
 This will be a 2 part project;   
 
